@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f5217f0-c95a-4462-9942-14428e0782f2" name="Changes" comment="ví dụ 1,2,3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2xlN30uLPZw3bZrK5pmPZa34waa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AccountServiceTest.executor": "Run",
+    "JUnit.AccountServiceTest.testRegisterAccountFromCSV.executor": "Run",
+    "JUnit.AccountServiceTest.testValidEmail.executor": "Run",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.InsuranceClaimTest.executor": "Run",
+    "JUnit.InsuranceClaimTest.testProcessClaimNullInput.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IntelliJ IDEA Community Edition 2025.1.1.1/bt/DemoCalculato_lamoday",
+    "onboarding.tips.debug.path": "D:/IntelliJ IDEA Community Edition 2025.1.1.1/bt/DemoCalculato_lamoday/src/main/java/khainguyen/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA Community Edition 2025.1.1.1\bt\DemoCalculato_lamoday\Lab2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest">
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoCalculato_lamoday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testRegisterAccountFromCSV" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoCalculato_lamoday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountServiceTest" />
+      <option name="METHOD_NAME" value="testRegisterAccountFromCSV(java.lang.String,java.lang.String,java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testValidEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoCalculato_lamoday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountServiceTest" />
+      <option name="METHOD_NAME" value="testValidEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsuranceClaimTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoCalculato_lamoday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InsuranceClaimTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsuranceClaimTest.testProcessClaimNullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoCalculato_lamoday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InsuranceClaimTest" />
+      <option name="METHOD_NAME" value="testProcessClaimNullInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest" />
+        <item itemvalue="JUnit.AccountServiceTest.testRegisterAccountFromCSV" />
+        <item itemvalue="JUnit.AccountServiceTest.testValidEmail" />
+        <item itemvalue="JUnit.InsuranceClaimTest" />
+        <item itemvalue="JUnit.InsuranceClaimTest.testProcessClaimNullInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f5217f0-c95a-4462-9942-14428e0782f2" name="Changes" comment="" />
+      <created>1748508498919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748508498919</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ví dụ 1,2,3">
+      <option name="closed" value="true" />
+      <created>1748510580234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748510580234</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ví dụ 1,2,3">
+      <option name="closed" value="true" />
+      <created>1748782837390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748782837390</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ví dụ 1,2,3">
+      <option name="closed" value="true" />
+      <created>1748783517701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748783517701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ví dụ 1,2,3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ví dụ 1,2,3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab2/src/main/java/khainguyen/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/Lab2/src/main/java/khainguyen/example/InsuranceClaim.java</url>
+          <line>4</line>
+          <properties field="claimId" class="khainguyen.example.InsuranceClaim" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
